@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/GIOIA_Exam_Practice.html" }]
+}
